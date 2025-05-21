@@ -1,0 +1,687 @@
+{
+    "truocDaoTao": [
+        {
+            "question_text": "Câu 1: Anh/chị đã từng sử dụng ảnh để quảng bá du lịch chưa?",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Thỉnh thoảng",
+                    "Không trả lời"
+                ],
+                "data": [
+                    29,
+                    11,
+                    24,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Thỉnh thoảng",
+                    "Không trả lời"
+                ],
+                "data": [
+                    44.6,
+                    16.9,
+                    36.9,
+                    1.5
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 2: Anh/chị có sử dụng công cụ chỉnh sửa ảnh (như Canva) để tạo ra hình ảnh hấp dẫn cho dịch vụ của mình không?",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Chưa nhưng tôi muốn học"
+                ],
+                "data": [
+                    16,
+                    16,
+                    33
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Chưa nhưng tôi muốn học"
+                ],
+                "data": [
+                    24.6,
+                    24.6,
+                    50.8
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 3: Anh/chị đã từng sử dụng công cụ tạo và chỉnh sửa video như Capcut chưa?",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Chưa nhưng tôi muốn học",
+                    "Không trả lời"
+                ],
+                "data": [
+                    18,
+                    9,
+                    36,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Chưa nhưng tôi muốn học",
+                    "Không trả lời"
+                ],
+                "data": [
+                    27.7,
+                    13.8,
+                    55.4,
+                    3.1
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 4: Anh/chị có tự tin trong việc tạo các nội dung ảnh/video chất lượng để quảng bá dịch vụ du lịch không?",
+            "bar_chart": {
+                "labels": [
+                    "Rất tự tin",
+                    "Tự tin",
+                    "Không tự tin",
+                    "Không trả lời"
+                ],
+                "data": [
+                    9,
+                    29,
+                    24,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất tự tin",
+                    "Tự tin",
+                    "Không tự tin",
+                    "Không trả lời"
+                ],
+                "data": [
+                    13.8,
+                    44.6,
+                    36.9,
+                    4.6
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 5: Anh/chị có biết về các công cụ miễn phí để chỉnh sửa ảnh như Canva không?",
+            "bar_chart": {
+                "labels": [
+                    "Biết đã sử dụng",
+                    "Biết nhưng chưa sử dụng",
+                    "Không biết",
+                    "Không trả lời"
+                ],
+                "data": [
+                    4,
+                    15,
+                    43,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Biết đã sử dụng",
+                    "Biết nhưng chưa sử dụng",
+                    "Không biết",
+                    "Không trả lời"
+                ],
+                "data": [
+                    6.2,
+                    23.1,
+                    66.2,
+                    4.6
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 6: Anh/chị đã từng tạo video quảng bá dịch vụ du lịch của mình chưa?",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Đôi khi"
+                ],
+                "data": [
+                    18,
+                    26,
+                    21
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Đôi khi"
+                ],
+                "data": [
+                    27.7,
+                    40.0,
+                    32.3
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 7: Anh/chị đánh giá mức độ sẵn sàng áp dụng công nghệ mới vào công việc quảng bá du lịch của mình như thế nào?",
+            "bar_chart": {
+                "labels": [
+                    "Rất sẵn sàng",
+                    "Sẵn sàng",
+                    "Không sẵn sàng",
+                    "Không trả lời"
+                ],
+                "data": [
+                    27,
+                    34,
+                    3,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất sẵn sàng",
+                    "Sẵn sàng",
+                    "Không sẵn sàng",
+                    "Không trả lời"
+                ],
+                "data": [
+                    41.5,
+                    52.3,
+                    4.6,
+                    1.5
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 8: Anh/chị có cảm thấy việc quản lý thông tin cơ sở của mình trên các nền tảng số sẽ giúp ích trong việc thu hút khách du lịch không?",
+            "bar_chart": {
+                "labels": [
+                    "Rất hiệu quả",
+                    "Có thể hiệu quả",
+                    "Không hiệu quả"
+                ],
+                "data": [
+                    30,
+                    28,
+                    7
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất hiệu quả",
+                    "Có thể hiệu quả",
+                    "Không hiệu quả"
+                ],
+                "data": [
+                    46.2,
+                    43.1,
+                    10.8
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 9: Anh/chị muốn học thêm kỹ năng nào trong việc quảng bá du lịch qua công nghệ số?",
+            "bar_chart": {
+                "labels": [
+                    "Chụp ảnh và chỉnh sửa ảnh",
+                    "Chỉnh sửa video",
+                    "Quản lý thông tin trên nền tảng số",
+                    "Tất cả các kỹ năng trên",
+                    "Không trả lời"
+                ],
+                "data": [
+                    3,
+                    2,
+                    2,
+                    57,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Chụp ảnh và chỉnh sửa ảnh",
+                    "Chỉnh sửa video",
+                    "Quản lý thông tin trên nền tảng số",
+                    "Tất cả các kỹ năng trên",
+                    "Không trả lời"
+                ],
+                "data": [
+                    4.6,
+                    3.1,
+                    3.1,
+                    87.7,
+                    1.5
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 10: Anh/chị đã sử dụng hệ thống nào để quản lý thông tin cho cơ sở của mình chưa?",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Không trả lời"
+                ],
+                "data": [
+                    22,
+                    40,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Không trả lời"
+                ],
+                "data": [
+                    33.8,
+                    61.5,
+                    4.6
+                ]
+            }
+        }
+    ],
+    "sauDaoTao": [
+        {
+            "question_text": "Câu 1:Anh/chị cảm thấy tự tin trong việc chụp ảnh sản phẩm để quảng bá du lịch không?",
+            "bar_chart": {
+                "labels": [
+                    "Rất tự tin",
+                    "Tự tin",
+                    "Không tự tin"
+                ],
+                "data": [
+                    17,
+                    40,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất tự tin",
+                    "Tự tin",
+                    "Không tự tin"
+                ],
+                "data": [
+                    29.3,
+                    69.0,
+                    1.7
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 2: Anh/chị cảm thấy tự tin trong việc chụp ảnh sản phẩm để quảng bá du lịch không?",
+            "bar_chart": {
+                "labels": [
+                    "Cải thiện rất rõ",
+                    "Cải thiện một phần",
+                    "Không trả lời"
+                ],
+                "data": [
+                    31,
+                    26,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Cải thiện rất rõ",
+                    "Cải thiện một phần",
+                    "Không trả lời"
+                ],
+                "data": [
+                    53.4,
+                    44.8,
+                    1.7
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 3: Anh/chị có thể tạo và chỉnh sửa video quảng bá dịch vụ du lịch bằng Capcut không?\n",
+            "bar_chart": {
+                "labels": [
+                    "Có, tôi đã làm được",
+                    "Có, nhưng cần thêm thời gian",
+                    "Không, tôi cần thêm hướng dẫn",
+                    "Không trả lời"
+                ],
+                "data": [
+                    13,
+                    30,
+                    13,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có, tôi đã làm được",
+                    "Có, nhưng cần thêm thời gian",
+                    "Không, tôi cần thêm hướng dẫn",
+                    "Không trả lời"
+                ],
+                "data": [
+                    22.4,
+                    51.7,
+                    22.4,
+                    3.4
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 4 Khóa đào tạo có giúp anh/chị cải thiện kỹ năng tạo nội dung ảnh/video cho dịch vụ du lịch không?",
+            "bar_chart": {
+                "labels": [
+                    "Rất nhiều",
+                    "Một phần"
+                ],
+                "data": [
+                    35,
+                    23
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất nhiều",
+                    "Một phần"
+                ],
+                "data": [
+                    60.3,
+                    39.7
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 5: Anh/chị đã bắt đầu sử dụng Canva để tạo và chỉnh sửa ảnh quảng bá dịch vụ du lịch của mình chưa?",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không, nhưng có kế hoạch",
+                    "Không trả lời"
+                ],
+                "data": [
+                    41,
+                    16,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không, nhưng có kế hoạch",
+                    "Không trả lời"
+                ],
+                "data": [
+                    70.7,
+                    27.6,
+                    1.7
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 6: Sau khi học Capcut, anh/chị có thể tự tạo video quảng bá du lịch một cách chuyên nghiệp hơn không?",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Không trả lời"
+                ],
+                "data": [
+                    53,
+                    3,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Không trả lời"
+                ],
+                "data": [
+                    91.4,
+                    5.2,
+                    3.4
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 7: Anh/chị có thể áp dụng các kỹ năng mới học vào công việc quảng bá du lịch của mình không?\n",
+            "bar_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Không trả lời"
+                ],
+                "data": [
+                    53,
+                    1,
+                    4
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Có",
+                    "Không",
+                    "Không trả lời"
+                ],
+                "data": [
+                    91.4,
+                    1.7,
+                    6.9
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 8: Sau khóa học, anh/chị cảm thấy tự tin hơn trong việc quản lý thông tin cơ sở du lịch trên hệ thống VRBabe không?",
+            "bar_chart": {
+                "labels": [
+                    "Rất tự tin",
+                    "Tự tin",
+                    "Không trả lời"
+                ],
+                "data": [
+                    13,
+                    42,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất tự tin",
+                    "Tự tin",
+                    "Không trả lời"
+                ],
+                "data": [
+                    22.4,
+                    72.4,
+                    5.2
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 9: Anh/chị đánh giá thế nào về việc sử dụng VRBabe để quản lý thông tin cơ sở du lịch của mình?",
+            "bar_chart": {
+                "labels": [
+                    "Rất hữu ích",
+                    "Hữu ích",
+                    "Không trả lời"
+                ],
+                "data": [
+                    29,
+                    27,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất hữu ích",
+                    "Hữu ích",
+                    "Không trả lời"
+                ],
+                "data": [
+                    50.0,
+                    46.6,
+                    3.4
+                ]
+            }
+        },
+        {
+            "question_text": "Câu 10:  Khóa đào tạo có giúp anh/chị nâng cao khả năng sử dụng công nghệ số để thu hút khách du lịch không?",
+            "bar_chart": {
+                "labels": [
+                    "Rất nhiều",
+                    "Một phần",
+                    "Không nhiều",
+                    "Không trả lời"
+                ],
+                "data": [
+                    31,
+                    25,
+                    1,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Rất nhiều",
+                    "Một phần",
+                    "Không nhiều",
+                    "Không trả lời"
+                ],
+                "data": [
+                    53.4,
+                    43.1,
+                    1.7,
+                    1.7
+                ]
+            }
+        }
+    ],
+    "soSanh": [
+        {
+            "title": "So Sánh Mức Độ Tự Tin Tạo Nội Dung Ảnh/Video",
+            "labels": [
+                "Không trả lời",
+                "Rất tự tin",
+                "Tự tin",
+                "Không tự tin"
+            ],
+            "datasets": [
+                {
+                    "label": "Trước Đào Tạo",
+                    "data": [
+                        3,
+                        9,
+                        29,
+                        24
+                    ]
+                },
+                {
+                    "label": "Sau Đào Tạo",
+                    "data": [
+                        0,
+                        17,
+                        40,
+                        1
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "So Sánh Tình Trạng Sử Dụng Công Cụ Chỉnh Sửa Ảnh (như Canva)",
+            "labels": [
+                "Không/Chưa sử dụng/Không biết",
+                "Có sử dụng/Đã sử dụng"
+            ],
+            "datasets": [
+                {
+                    "label": "Trước Đào Tạo",
+                    "data": [
+                        61,
+                        4
+                    ]
+                },
+                {
+                    "label": "Sau Đào Tạo",
+                    "data": [
+                        17,
+                        41
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "So Sánh Việc Sử Dụng/Khả Năng Sử Dụng Công Cụ Tạo Video (như Capcut)",
+            "labels": [
+                "Không trả lời",
+                "Có",
+                "Không",
+                "Chưa nhưng tôi muốn học"
+            ],
+            "datasets": [
+                {
+                    "label": "Trước Đào Tạo",
+                    "data": [
+                        2,
+                        18,
+                        9,
+                        36
+                    ]
+                },
+                {
+                    "label": "Sau Đào Tạo",
+                    "data": [
+                        2,
+                        13,
+                        30,
+                        13
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "So Sánh về Việc Tạo Video Quảng Bá Du Lịch",
+            "labels": [
+                "Không tạo (Trước) | Không thể tạo (Sau)",
+                "Có/Thỉnh thoảng tạo (Trước) | Có thể tạo chuyên nghiệp (Sau)",
+                "Không trả lời"
+            ],
+            "datasets": [
+                {
+                    "label": "Trước Đào Tạo",
+                    "data": [
+                        26,
+                        39,
+                        0
+                    ]
+                },
+                {
+                    "label": "Sau Đào Tạo",
+                    "data": [
+                        3,
+                        53,
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}
