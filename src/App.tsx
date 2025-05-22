@@ -427,7 +427,7 @@ export default function App() {
                   <div className="bg-white p-6 rounded-lg shadow-md">
                     <h3 className="text-lg font-semibold mb-4">{t.overallEffectivenessTitle}</h3>
                     <div className="font-medium text-gray-700 mb-2">{t.effectivenessQuestion}</div>
-                    <ResponsiveContainer width="100%" height={200}>
+                    <ResponsiveContainer width="100%" height={400}>
                       <PieChart>
                         <Pie
                           data={formatBarChartData(dashboardData.sauDaoTao[9].pie_chart)}
@@ -452,7 +452,7 @@ export default function App() {
                   <div className="bg-white p-6 rounded-lg shadow-md">
                     <h3 className="text-lg font-semibold mb-4">{t.skillApplicationTitle}</h3>
                     <div className="font-medium text-gray-700 mb-2">{t.applicationQuestion}</div>
-                    <ResponsiveContainer width="100%" height={200}>
+                    <ResponsiveContainer width="100%" height={400}>
                       <PieChart>
                         <Pie
                           data={formatBarChartData(dashboardData.sauDaoTao[6].pie_chart)}
