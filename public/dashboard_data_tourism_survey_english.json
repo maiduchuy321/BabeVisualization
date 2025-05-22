@@ -1,0 +1,687 @@
+{
+    "truocDaoTao": [
+        {
+            "question_text": "Question 1: Have you ever used images to promote tourism?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Sometimes",
+                    "No answer"
+                ],
+                "data": [
+                    29,
+                    11,
+                    24,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Sometimes",
+                    "No answer"
+                ],
+                "data": [
+                    44.6,
+                    16.9,
+                    36.9,
+                    1.5
+                ]
+            }
+        },
+        {
+            "question_text": "Question 2: Do you use photo editing tools (like Canva) to create attractive images for your services?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Not yet but I want to learn"
+                ],
+                "data": [
+                    16,
+                    16,
+                    33
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Not yet but I want to learn"
+                ],
+                "data": [
+                    24.6,
+                    24.6,
+                    50.8
+                ]
+            }
+        },
+        {
+            "question_text": "Question 3: Have you ever used video creation and editing tools like CapCut?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Not yet but I want to learn",
+                    "No answer"
+                ],
+                "data": [
+                    18,
+                    9,
+                    36,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Not yet but I want to learn",
+                    "No answer"
+                ],
+                "data": [
+                    27.7,
+                    13.8,
+                    55.4,
+                    3.1
+                ]
+            }
+        },
+        {
+            "question_text": "Question 4: Are you confident in creating quality image/video content to promote tourism services?",
+            "bar_chart": {
+                "labels": [
+                    "Very confident",
+                    "Confident",
+                    "Not confident",
+                    "No answer"
+                ],
+                "data": [
+                    9,
+                    29,
+                    24,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very confident",
+                    "Confident",
+                    "Not confident",
+                    "No answer"
+                ],
+                "data": [
+                    13.8,
+                    44.6,
+                    36.9,
+                    4.6
+                ]
+            }
+        },
+        {
+            "question_text": "Question 5: Do you know about free photo editing tools like Canva?",
+            "bar_chart": {
+                "labels": [
+                    "Know and have used",
+                    "Know but haven't used",
+                    "Don't know",
+                    "No answer"
+                ],
+                "data": [
+                    4,
+                    15,
+                    43,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Know and have used",
+                    "Know but haven't used",
+                    "Don't know",
+                    "No answer"
+                ],
+                "data": [
+                    6.2,
+                    23.1,
+                    66.2,
+                    4.6
+                ]
+            }
+        },
+        {
+            "question_text": "Question 6: Have you ever created promotional videos for your tourism services?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Sometimes"
+                ],
+                "data": [
+                    18,
+                    26,
+                    21
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "Sometimes"
+                ],
+                "data": [
+                    27.7,
+                    40.0,
+                    32.3
+                ]
+            }
+        },
+        {
+            "question_text": "Question 7: How do you rate your readiness to apply new technology to your tourism promotion work?",
+            "bar_chart": {
+                "labels": [
+                    "Very ready",
+                    "Ready",
+                    "Not ready",
+                    "No answer"
+                ],
+                "data": [
+                    27,
+                    34,
+                    3,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very ready",
+                    "Ready",
+                    "Not ready",
+                    "No answer"
+                ],
+                "data": [
+                    41.5,
+                    52.3,
+                    4.6,
+                    1.5
+                ]
+            }
+        },
+        {
+            "question_text": "Question 8: Do you feel that managing your facility's information on digital platforms will help attract tourists?",
+            "bar_chart": {
+                "labels": [
+                    "Very effective",
+                    "Possibly effective",
+                    "Not effective"
+                ],
+                "data": [
+                    30,
+                    28,
+                    7
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very effective",
+                    "Possibly effective",
+                    "Not effective"
+                ],
+                "data": [
+                    46.2,
+                    43.1,
+                    10.8
+                ]
+            }
+        },
+        {
+            "question_text": "Question 9: Which skills would you like to learn more about in promoting tourism through digital technology?",
+            "bar_chart": {
+                "labels": [
+                    "Photography and photo editing",
+                    "Video editing",
+                    "Managing information on digital platforms",
+                    "All of the above skills",
+                    "No answer"
+                ],
+                "data": [
+                    3,
+                    2,
+                    2,
+                    57,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Photography and photo editing",
+                    "Video editing",
+                    "Managing information on digital platforms",
+                    "All of the above skills",
+                    "No answer"
+                ],
+                "data": [
+                    4.6,
+                    3.1,
+                    3.1,
+                    87.7,
+                    1.5
+                ]
+            }
+        },
+        {
+            "question_text": "Question 10: Have you used any system to manage information for your facility?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "No answer"
+                ],
+                "data": [
+                    22,
+                    40,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "No answer"
+                ],
+                "data": [
+                    33.8,
+                    61.5,
+                    4.6
+                ]
+            }
+        }
+    ],
+    "sauDaoTao": [
+        {
+            "question_text": "Question 1: Do you feel confident in taking product photos to promote tourism?",
+            "bar_chart": {
+                "labels": [
+                    "Very confident",
+                    "Confident",
+                    "Not confident"
+                ],
+                "data": [
+                    17,
+                    40,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very confident",
+                    "Confident",
+                    "Not confident"
+                ],
+                "data": [
+                    29.3,
+                    69.0,
+                    1.7
+                ]
+            }
+        },
+        {
+            "question_text": "Question 2: Do you feel confident in taking product photos to promote tourism?",
+            "bar_chart": {
+                "labels": [
+                    "Very clear improvement",
+                    "Partial improvement",
+                    "No answer"
+                ],
+                "data": [
+                    31,
+                    26,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very clear improvement",
+                    "Partial improvement",
+                    "No answer"
+                ],
+                "data": [
+                    53.4,
+                    44.8,
+                    1.7
+                ]
+            }
+        },
+        {
+            "question_text": "Question 3: Can you create and edit promotional videos for tourism services using CapCut?",
+            "bar_chart": {
+                "labels": [
+                    "Yes, I can do it",
+                    "Yes, but need more time",
+                    "No, I need more guidance",
+                    "No answer"
+                ],
+                "data": [
+                    13,
+                    30,
+                    13,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes, I can do it",
+                    "Yes, but need more time",
+                    "No, I need more guidance",
+                    "No answer"
+                ],
+                "data": [
+                    22.4,
+                    51.7,
+                    22.4,
+                    3.4
+                ]
+            }
+        },
+        {
+            "question_text": "Question 4: Did the training course help you improve your skills in creating image/video content for tourism services?",
+            "bar_chart": {
+                "labels": [
+                    "Very much",
+                    "Partially"
+                ],
+                "data": [
+                    35,
+                    23
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very much",
+                    "Partially"
+                ],
+                "data": [
+                    60.3,
+                    39.7
+                ]
+            }
+        },
+        {
+            "question_text": "Question 5: Have you started using Canva to create and edit images to promote your tourism services?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No, but have plans to",
+                    "No answer"
+                ],
+                "data": [
+                    41,
+                    16,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No, but have plans to",
+                    "No answer"
+                ],
+                "data": [
+                    70.7,
+                    27.6,
+                    1.7
+                ]
+            }
+        },
+        {
+            "question_text": "Question 6: After learning CapCut, can you create promotional tourism videos more professionally?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "No answer"
+                ],
+                "data": [
+                    53,
+                    3,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "No answer"
+                ],
+                "data": [
+                    91.4,
+                    5.2,
+                    3.4
+                ]
+            }
+        },
+        {
+            "question_text": "Question 7: Can you apply the newly learned skills to your tourism promotion work?",
+            "bar_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "No answer"
+                ],
+                "data": [
+                    53,
+                    1,
+                    4
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Yes",
+                    "No",
+                    "No answer"
+                ],
+                "data": [
+                    91.4,
+                    1.7,
+                    6.9
+                ]
+            }
+        },
+        {
+            "question_text": "Question 8: After the course, do you feel more confident in managing tourism facility information on the VRBabe system?",
+            "bar_chart": {
+                "labels": [
+                    "Very confident",
+                    "Confident",
+                    "No answer"
+                ],
+                "data": [
+                    13,
+                    42,
+                    3
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very confident",
+                    "Confident",
+                    "No answer"
+                ],
+                "data": [
+                    22.4,
+                    72.4,
+                    5.2
+                ]
+            }
+        },
+        {
+            "question_text": "Question 9: How would you rate using VRBabe to manage your tourism facility information?",
+            "bar_chart": {
+                "labels": [
+                    "Very useful",
+                    "Useful",
+                    "No answer"
+                ],
+                "data": [
+                    29,
+                    27,
+                    2
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very useful",
+                    "Useful",
+                    "No answer"
+                ],
+                "data": [
+                    50.0,
+                    46.6,
+                    3.4
+                ]
+            }
+        },
+        {
+            "question_text": "Question 10: Did the training course help you enhance your ability to use digital technology to attract tourists?",
+            "bar_chart": {
+                "labels": [
+                    "Very much",
+                    "Partially",
+                    "Not much",
+                    "No answer"
+                ],
+                "data": [
+                    31,
+                    25,
+                    1,
+                    1
+                ]
+            },
+            "pie_chart": {
+                "labels": [
+                    "Very much",
+                    "Partially",
+                    "Not much",
+                    "No answer"
+                ],
+                "data": [
+                    53.4,
+                    43.1,
+                    1.7,
+                    1.7
+                ]
+            }
+        }
+    ],
+    "soSanh": [
+        {
+            "title": "Comparison of Confidence Level in Creating Image/Video Content",
+            "labels": [
+                "No answer",
+                "Very confident",
+                "Confident",
+                "Not confident"
+            ],
+            "datasets": [
+                {
+                    "label": "Before Training",
+                    "data": [
+                        3,
+                        9,
+                        29,
+                        24
+                    ]
+                },
+                {
+                    "label": "After Training",
+                    "data": [
+                        0,
+                        17,
+                        40,
+                        1
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Comparison of Photo Editing Tool Usage Status (like Canva)",
+            "labels": [
+                "Not using/Haven't used/Don't know",
+                "Using/Have used"
+            ],
+            "datasets": [
+                {
+                    "label": "Before Training",
+                    "data": [
+                        61,
+                        4
+                    ]
+                },
+                {
+                    "label": "After Training",
+                    "data": [
+                        17,
+                        41
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Comparison of Video Creation Tool Usage/Ability (like CapCut)",
+            "labels": [
+                "No answer",
+                "Yes",
+                "No",
+                "Not yet but I want to learn"
+            ],
+            "datasets": [
+                {
+                    "label": "Before Training",
+                    "data": [
+                        2,
+                        18,
+                        9,
+                        36
+                    ]
+                },
+                {
+                    "label": "After Training",
+                    "data": [
+                        2,
+                        13,
+                        30,
+                        13
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Comparison of Creating Tourism Promotional Videos",
+            "labels": [
+                "Don't create (Before) | Can't create (After)",
+                "Create/Sometimes create (Before) | Can create professionally (After)",
+                "No answer"
+            ],
+            "datasets": [
+                {
+                    "label": "Before Training",
+                    "data": [
+                        26,
+                        39,
+                        0
+                    ]
+                },
+                {
+                    "label": "After Training",
+                    "data": [
+                        3,
+                        53,
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}
