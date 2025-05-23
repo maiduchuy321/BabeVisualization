@@ -1,0 +1,213 @@
+{
+  "overview": {
+    "totalResponses": 47,
+    "surveyTitle": "Khảo sát về hoạt động du lịch tại Ba Bể"
+  },
+  "questions": {
+    "question1": {
+      "title": "Câu 1: Anh/Chị có đồng ý cho phép cán bộ, chuyên gia quay VR360 tại cơ sở mình không?",
+      "totalResponses": 35,
+      "breakdown": {
+        "Đồng ý": 31,
+        "Không đồng ý": 3,
+        "Khác": 1
+      },
+      "percentage": {
+        "Đồng ý": "88.6",
+        "Không đồng ý": "8.6",
+        "Khác": "2.9"
+      }
+    },
+    "question2": {
+      "title": "Câu 2: Lượng khách đến cơ sở mỗi tuần khoảng bao nhiêu?",
+      "totalResponses": 20,
+      "breakdown": {
+        "Không có khách": 4,
+        "1-20 khách": 5,
+        "21-50 khách": 4,
+        "51-100 khách": 0,
+        "Trên 100 khách": 0,
+        "Không xác định": 7
+      },
+      "percentage": {
+        "Không có khách": "20.0",
+        "1-20 khách": "25.0",
+        "21-50 khách": "20.0",
+        "51-100 khách": "0.0",
+        "Trên 100 khách": "0.0",
+        "Không xác định": "35.0"
+      }
+    },
+    "question3": {
+      "title": "Câu 3: Khách thường đến vào cuối tuần hoặc ngày nghỉ?",
+      "totalResponses": 28,
+      "breakdown": {
+        "Đúng": 26,
+        "Sai": 2
+      },
+      "percentage": {
+        "Đúng": "92.9",
+        "Sai": "7.1"
+      }
+    },
+    "question31": {
+      "title": "Câu 3.1: Khách nghỉ từ một đến hai đêm vào cuối tuần hoặc ngày nghỉ?",
+      "totalResponses": 29,
+      "breakdown": {
+        "Đúng": 27,
+        "Sai": 2
+      },
+      "percentage": {
+        "Đúng": "93.1",
+        "Sai": "6.9"
+      }
+    },
+    "question4": {
+      "title": "Câu 4: Số lượt khách quốc tế năm qua?",
+      "totalResponses": 16,
+      "breakdown": {
+        "Không có": 2,
+        "1-50 lượt": 10,
+        "51-100 lượt": 2,
+        "101-200 lượt": 0,
+        "Trên 200 lượt": 2
+      },
+      "percentage": {
+        "Không có": "12.5",
+        "1-50 lượt": "62.5",
+        "51-100 lượt": "12.5",
+        "101-200 lượt": "0.0",
+        "Trên 200 lượt": "12.5"
+      }
+    },
+    "question5": {
+      "title": "Câu 5: Doanh thu từ hoạt động du lịch mỗi tháng?",
+      "totalResponses": 17,
+      "breakdown": {
+        "5-10 triệu": 11,
+        "10-20 triệu": 3,
+        "20-40 triệu": 1,
+        "40-70 triệu": 1,
+        "70-100 triệu": 0,
+        "100-150 triệu": 0,
+        "150-200 triệu": 0,
+        "Trên 200 triệu": 1
+      },
+      "percentage": {
+        "5-10 triệu": "64.7",
+        "10-20 triệu": "17.6",
+        "20-40 triệu": "5.9",
+        "40-70 triệu": "5.9",
+        "70-100 triệu": "0.0",
+        "100-150 triệu": "0.0",
+        "150-200 triệu": "0.0",
+        "Trên 200 triệu": "5.9"
+      }
+    },
+    "question6": {
+      "title": "Câu 6: Dịch vụ mang lại thu nhập chính?",
+      "totalResponses": 25,
+      "breakdown": {
+        "Phòng nghỉ": 16,
+        "Ẩm thực": 15,
+        "Tour du lịch": 3,
+        "Bán hàng": 2
+      },
+      "percentage": {
+        "Phòng nghỉ": "64.0",
+        "Ẩm thực": "60.0",
+        "Tour du lịch": "12.0",
+        "Bán hàng": "8.0"
+      }
+    },
+    "question7": {
+      "title": "Câu 7: Có biện pháp thu hút khách du lịch không?",
+      "totalResponses": 13,
+      "breakdown": {
+          "Website, Mạng xã hội": 12,
+          "Truyền miệng": 1
+      },
+      "percentage": {
+        "Website, Mạng xã hội": "92.3",
+        "Truyền miệng": "7.7"
+      }
+    },
+    "question8": {
+      "title": "Câu 8: Nhu cầu khách du lịch thay đổi như thế nào qua các năm?",
+      "totalResponses": 14,
+      "breakdown": {
+        "Giảm": 5,
+        "Tăng": 1,
+        "Không đổi": 2,
+        "Yêu cầu cao hơn": 1
+      },
+      "percentage": {
+        "Giảm": "35.7",
+        "Tăng": "7.1",
+        "Không đổi": "14.3",
+        "Yêu cầu cao hơn": "7.1"
+      }
+    },
+    "question9": {
+      "title": "Câu 9: Nguyên nhân ảnh hưởng lượng khách",
+      "totalResponses": 10,
+      "breakdown": {
+        "Chất lượng dịch vụ": 1,
+        "Dịch COVID-19": 2,
+        "Thời tiết bất lợi": 3,
+        "Thiếu đầu tư": 1,
+        "Giao thông khó khăn": 1
+      },
+      "percentage": {
+        "Chất lượng dịch vụ": "10.0",
+        "Dịch COVID-19": "20.0",
+        "Thời tiết bất lợi": "30.0",
+        "Thiếu đầu tư": "10.0",
+        "Giao thông khó khăn": "10.0"
+      }
+    }
+  },
+  "insights": {
+    "keyFindings": [
+      "Phần lớn các cơ sở đồng ý cho phép quay VR360 để quảng bá",
+      "Lượng khách du lịch đến các cơ sở còn hạn chế, chủ yếu trong khoảng 10-50 khách/tuần",
+      "Khách du lịch chủ yếu đến vào cuối tuần và ngày nghỉ",
+      "Doanh thu từ du lịch chủ yếu ở mức thấp (5-20 triệu/tháng)",
+      "Dịch vụ phòng nghỉ và ẩm thực là nguồn thu nhập chính",
+      "Facebook và mạng xã hội là kênh quảng bá chủ yếu",
+      "Xu hướng lượng khách có chiều hướng giảm trong những năm gần đây"
+    ],
+    "challenges": [
+      "Lượng khách quốc tế còn rất hạn chế",
+      "Ảnh hưởng từ dịch COVID-19 và thời tiết bất lợi",
+      "Giao thông đi lại còn khó khăn",
+      "Thiếu đầu tư phát triển cơ sở hạ tầng",
+      "Chất lượng dịch vụ chưa đáp ứng nhu cầu khách hàng"
+    ],
+    "opportunities": [
+      "Tiềm năng phát triển du lịch VR360",
+      "Cải thiện chất lượng dịch vụ để thu hút khách quay lại",
+      "Phát triển du lịch trải nghiệm địa phương",
+      "Tăng cường hoạt động marketing online"
+    ]
+  },
+  "recommendations": {
+    "shortTerm": [
+      "Triển khai dự án VR360 để tăng khả năng quảng bá",
+      "Cải thiện chất lượng dịch vụ phòng nghỉ và ẩm thực",
+      "Tăng cường hoạt động marketing trên Facebook và mạng xã hội",
+      "Phát triển các gói dịch vụ cuối tuần hấp dẫn"
+    ],
+    "longTerm": [
+      "Đầu tư cải thiện cơ sở hạ tầng giao thông",
+      "Phát triển du lịch quốc tế thông qua hợp tác với tour operator",
+      "Xây dựng thương hiệu du lịch Ba Bể bền vững",
+      "Đa dạng hóa sản phẩm du lịch trải nghiệm"
+    ],
+    "priority": [
+      "Triển khai VR360 - độ sẵn sàng cao từ các cơ sở",
+      "Marketing online - chi phí thấp, hiệu quả nhanh",
+      "Nâng cao chất lượng dịch vụ - cải thiện trải nghiệm khách hàng"
+    ]
+  }
+}

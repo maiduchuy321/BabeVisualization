@@ -1,0 +1,213 @@
+{
+  "overview": {
+    "totalResponses": 47,
+    "surveyTitle": "Survey on Tourism Activities in Ba Bể"
+  },
+  "questions": {
+    "question1": {
+      "title": "Question 1: Do you agree to allow officials and experts to film VR360 at your facility?",
+      "totalResponses": 35,
+      "breakdown": {
+        "Agree": 31,
+        "Disagree": 3,
+        "Other": 1
+      },
+      "percentage": {
+        "Agree": "88.6",
+        "Disagree": "8.6",
+        "Other": "2.9"
+      }
+    },
+    "question2": {
+      "title": "Question 2: How many guests does your facility receive per week (on average)?",
+      "totalResponses": 20,
+      "breakdown": {
+        "No guests": 4,
+        "1-20 guests": 5,
+        "21-50 guests": 4,
+        "51-100 guests": 0,
+        "Over 100 guests": 0,
+        "Uncertain": 7
+      },
+      "percentage": {
+        "No guests": "20.0",
+        "1-20 guests": "25.0",
+        "21-50 guests": "20.0",
+        "51-100 guests": "0.0",
+        "Over 100 guests": "0.0",
+        "Uncertain": "35.0"
+      }
+    },
+    "question3": {
+      "title": "Question 3: Do guests usually come on weekends or holidays?",
+      "totalResponses": 28,
+      "breakdown": {
+        "Yes": 26,
+        "No": 2
+      },
+      "percentage": {
+        "Yes": "92.9",
+        "No": "7.1"
+      }
+    },
+    "question31": {
+      "title": "Question 3.1: Do guests typically stay for one to two nights during weekends or holidays?",
+      "totalResponses": 29,
+      "breakdown": {
+        "Yes": 27,
+        "No": 2
+      },
+      "percentage": {
+        "Yes": "93.1",
+        "No": "6.9"
+      }
+    },
+    "question4": {
+      "title": "Question 4: Number of international visitors last year?",
+      "totalResponses": 16,
+      "breakdown": {
+        "None": 2,
+        "1-50 visits": 10,
+        "51-100 visits": 2,
+        "101-200 visits": 0,
+        "Over 200 visits": 2
+      },
+      "percentage": {
+        "None": "12.5",
+        "1-50 visits": "62.5",
+        "51-100 visits": "12.5",
+        "101-200 visits": "0.0",
+        "Over 200 visits": "12.5"
+      }
+    },
+    "question5": {
+      "title": "Question 5: Monthly revenue from tourism activities?",
+      "totalResponses": 17,
+      "breakdown": {
+        "5-10 million VND": 11,
+        "10-20 million VND": 3,
+        "20-40 million VND": 1,
+        "40-70 million VND": 1,
+        "70-100 million VND": 0,
+        "100-150 million VND": 0,
+        "150-200 million VND": 0,
+        "Over 200 million VND": 1
+      },
+      "percentage": {
+        "5-10 million VND": "64.7",
+        "10-20 million VND": "17.6",
+        "20-40 million VND": "5.9",
+        "40-70 million VND": "5.9",
+        "70-100 million VND": "0.0",
+        "100-150 million VND": "0.0",
+        "150-200 million VND": "0.0",
+        "Over 200 million VND": "5.9"
+      }
+    },
+    "question6": {
+      "title": "Question 6: Main source of income?",
+      "totalResponses": 25,
+      "breakdown": {
+        "Accommodation": 16,
+        "Food services": 15,
+        "Tour packages": 3,
+        "Product sales": 2
+      },
+      "percentage": {
+        "Accommodation": "64.0",
+        "Food services": "60.0",
+        "Tour packages": "12.0",
+        "Product sales": "8.0"
+      }
+    },
+    "question7": {
+      "title": "Question 7: Do you have any methods to attract tourists?",
+      "totalResponses": 13,
+      "breakdown": {
+        "Website, Social Media": 12,
+        "Word of mouth": 1
+      },
+      "percentage": {
+        "Website, Social Media": "92.3",
+        "Word of mouth": "7.7"
+      }
+    },
+    "question8": {
+      "title": "Question 8: How has tourist demand changed over the years?",
+      "totalResponses": 14,
+      "breakdown": {
+        "Decreased": 5,
+        "Increased": 1,
+        "Unchanged": 2,
+        "More demanding": 1
+      },
+      "percentage": {
+        "Decreased": "35.7",
+        "Increased": "7.1",
+        "Unchanged": "14.3",
+        "More demanding": "7.1"
+      }
+    },
+    "question9": {
+      "title": "Question 9: Factors affecting visitor numbers?",
+      "totalResponses": 10,
+      "breakdown": {
+        "Service quality": 1,
+        "COVID-19 pandemic": 2,
+        "Unfavorable weather": 3,
+        "Lack of investment": 1,
+        "Difficult transportation": 1
+      },
+      "percentage": {
+        "Service quality": "10.0",
+        "COVID-19 pandemic": "20.0",
+        "Unfavorable weather": "30.0",
+        "Lack of investment": "10.0",
+        "Difficult transportation": "10.0"
+      }
+    }
+  },
+  "insights": {
+    "keyFindings": [
+      "Most facilities agree to allow VR360 filming for promotion purposes",
+      "Visitor numbers remain low, mostly between 10–50 visitors per week",
+      "Tourists primarily visit on weekends and holidays",
+      "Tourism revenue is generally low (5–20 million VND/month)",
+      "Accommodation and food services are the main income sources",
+      "Facebook and social media are the main marketing channels",
+      "Tourist numbers have shown a declining trend in recent years"
+    ],
+    "challenges": [
+      "Very limited number of international visitors",
+      "Impact of COVID-19 and unfavorable weather conditions",
+      "Difficult travel and transportation access",
+      "Lack of infrastructure investment",
+      "Service quality does not meet customer expectations"
+    ],
+    "opportunities": [
+      "Potential to develop VR360 tourism",
+      "Improve service quality to retain and attract visitors",
+      "Develop local experiential tourism",
+      "Strengthen online marketing activities"
+    ]
+  },
+  "recommendations": {
+    "shortTerm": [
+      "Implement the VR360 project to enhance promotional capabilities",
+      "Improve accommodation and food service quality",
+      "Enhance marketing efforts on Facebook and social media",
+      "Develop attractive weekend service packages"
+    ],
+    "longTerm": [
+      "Invest in improving transportation infrastructure",
+      "Develop international tourism through partnerships with tour operators",
+      "Build a sustainable tourism brand for Ba Bể",
+      "Diversify experiential tourism products"
+    ],
+    "priority": [
+      "Implement VR360 – high readiness among local facilities",
+      "Online marketing – low cost, fast impact",
+      "Enhance service quality – improve customer experience"
+    ]
+  }
+}
