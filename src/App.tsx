@@ -87,6 +87,7 @@ const translations = {
     longTermRec: "Long-Term Recommendations",
     priorityRec: "Priority Recommendations",
     analysisDate: "Analysis Date",
+    totalSurveyResponsesTitle: "Number of responses",
     totalSurveyResponses: "Total Survey Responses"
   },
   vi: {
@@ -158,6 +159,7 @@ const translations = {
     longTermRec: "Đề Xuất Dài Hạn",
     priorityRec: "Đề Xuất Ưu Tiên",
     analysisDate: "Ngày Phân Tích",
+    totalSurveyResponsesTitle: "Số phản hồi",
     totalSurveyResponses: "Tổng Số Phản Hồi Khảo Sát"
   }
 };
@@ -813,7 +815,7 @@ export default function App() {
               </h3>
               {currentBaBeSurveyQuestion?.totalResponsesForQuestion > 0 && (
                 <p className="text-sm text-gray-500 bg-gray-50 px-3 py-1 rounded-full inline-block">
-                  Số phản hồi: {currentBaBeSurveyQuestion.totalResponsesForQuestion}
+                  {t.totalSurveyResponsesTitle}: {currentBaBeSurveyQuestion.totalResponsesForQuestion}
                 </p>
               )}
             </div>
